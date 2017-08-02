@@ -3,74 +3,74 @@ layout: "post"
 title: "Art Sonic #22 - Vendredi"
 subtitle: "Briouze - 22 Juillet 2017"
 date: "2017-07-28"
-header-img: "img/galleries/2017-07-28-artso22-vendredi/header.jpg"
+header-img: "/img/galleries/2017-07-28-artso22-vendredi/header.jpg"
 tags: [concert, Art Sonic, artsonic, Briouze, Asaf Avidan]
 categories: [Concert]
 comments: true
 gallery_asaf:
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/asaf/P1000624.JPG"
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/asaf/P1000625.JPG"
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/asaf/P1000637.JPG"
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/asaf/P1000637_NB.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/asaf/P1000624.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/asaf/P1000625.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/asaf/P1000637.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/asaf/P1000637_NB.JPG"
    image_size: 2
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/asaf/P1000649.JPG"
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/asaf/P1000649_NB.JPG"
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/asaf/P1000650.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/asaf/P1000649.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/asaf/P1000649_NB.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/asaf/P1000650.JPG"
    image_size: 2
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/asaf/P1000650_NB.JPG"
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/asaf/P1000666.JPG"
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/asaf/P1000668.JPG"
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/asaf/P1000674.JPG"
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/asaf/P1000685.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/asaf/P1000650_NB.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/asaf/P1000666.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/asaf/P1000668.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/asaf/P1000674.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/asaf/P1000685.JPG"
 gallery_brokenback:
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/brokenback/P1000692.JPG"
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/brokenback/P1000694.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/brokenback/P1000692.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/brokenback/P1000694.JPG"
    image_size: 2
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/brokenback/P1000697.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/brokenback/P1000697.JPG"
    image_size: 3
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/brokenback/P1000701.JPG"
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/brokenback/P1000701_NB.JPG"
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/brokenback/P1000706.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/brokenback/P1000701.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/brokenback/P1000701_NB.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/brokenback/P1000706.JPG"
 gallery_aceofmaid:
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000479.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000479.JPG"
    image_size: 2
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000482.JPG"
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000483.JPG"
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000491.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000482.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000483.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000491.JPG"
    image_size: 2
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000505.JPG"
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000514.JPG"
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000514_NB.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000505.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000514.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000514_NB.JPG"
    image_size: 3
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000534.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000534.JPG"
 gallery_mhd:
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/mhd/P1000606.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/mhd/P1000606.JPG"
    image_size: 3
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/mhd/P1000607.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/mhd/P1000607.JPG"
    image_size: 2
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/mhd/P1000612.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/mhd/P1000612.JPG"
    image_size: 2
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/mhd/P1000612_1.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/mhd/P1000612_1.JPG"
    image_size: 1
 gallery_lasaves:
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/lasaves/P1000537.JPG"
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/lasaves/P1000556.JPG"
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/lasaves/P1000558.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/lasaves/P1000537.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/lasaves/P1000556.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/lasaves/P1000558.JPG"
    image_size: 2
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/lasaves/P1000562.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/lasaves/P1000562.JPG"
    image_size: 2
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/lasaves/P1000563.JPG"
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/lasaves/P1000568.JPG"
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/lasaves/P1000572.JPG"
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/lasaves/P1000573.JPG"
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/lasaves/P1000574.JPG"
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/lasaves/P1000575.JPG"
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/lasaves/P1000576.JPG"
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/lasaves/P1000593.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/lasaves/P1000563.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/lasaves/P1000568.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/lasaves/P1000572.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/lasaves/P1000573.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/lasaves/P1000574.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/lasaves/P1000575.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/lasaves/P1000576.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/lasaves/P1000593.JPG"
 gallery_puppetmastaz:
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/puppetmastaz/P1000713.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/puppetmastaz/P1000713.JPG"
    image_size: 3
- - image_path: "img/galleries/2017-07-28-artso22-vendredi/puppetmastaz/P1000729.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/puppetmastaz/P1000729.JPG"
    image_size: 3
 ---
 
