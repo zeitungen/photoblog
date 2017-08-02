@@ -2,7 +2,7 @@
 layout: page
 title: "Zeitungen"
 description: "photographe de merde"
-header-img: "img/galleries/-2017-07-28-artso22-vendredi/aceofmaid/P1000514_NB.JPG"
+header-img: "img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000514_NB.JPG"
 ---
 
 # A propos
