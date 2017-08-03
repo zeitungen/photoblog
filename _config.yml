@@ -4,8 +4,8 @@
 title: Zeitungen
 # email: ""
 description: "Photographe de merde"
-url: "https://zeitungen.github.io"
-baseurl: "/photoblog"
+url: "http://photo.zeitungen.fr"
+baseurl: ""
 # facebook_username: ""
 twitter_username: "Mzeitungen"
 instagram_username: "zeitungen"
@@ -35,7 +35,7 @@ comments :
 
 # Internal nav
 nav:  
-  - A PROPOS: "https://zeitungen.github.io/photoblog/about/"
+  - A PROPOS: "https://photo.zeitungen.fr/about/"
 
 # All translation keys
 translations:
