@@ -1,5 +1,3 @@
-# docker run --name jekyll -v /c/Users/Maxime/docker/jekyll:/usr/src/app -p "4000:4000" starefossen/github-pages
-
 # Site settings
 title: Zeitungen
 # email: ""
