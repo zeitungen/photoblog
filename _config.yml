@@ -35,7 +35,7 @@ comments :
 
 # Internal nav
 nav:  
-  - A PROPOS: "https://photo.zeitungen.fr/about/"
+  - A PROPOS: "http://photo.zeitungen.fr/about/"
 
 # All translation keys
 translations:
