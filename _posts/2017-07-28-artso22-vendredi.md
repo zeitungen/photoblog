@@ -33,11 +33,12 @@ gallery_brokenback:
  - image_path: "/img/galleries/2017-07-28-artso22-vendredi/brokenback/P1000706.JPG"
 gallery_aceofmaid:
  - image_path: "/img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000479.JPG"
-   image_size: 2
  - image_path: "/img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000482.JPG"
  - image_path: "/img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000483.JPG"
- - image_path: "/img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000491.JPG"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/aceofmaid/IMG_20170721_205722.jpg"
    image_size: 2
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/aceofmaid/IMG_20170721_205722_NB.jpg"
+ - image_path: "/img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000491.JPG"
  - image_path: "/img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000505.JPG"
  - image_path: "/img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000514.JPG"
  - image_path: "/img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000514_NB.JPG"
@@ -45,9 +46,9 @@ gallery_aceofmaid:
  - image_path: "/img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000534.JPG"
 gallery_mhd:
  - image_path: "/img/galleries/2017-07-28-artso22-vendredi/mhd/P1000606.JPG"
-   image_size: 3
+   image_size: 1
  - image_path: "/img/galleries/2017-07-28-artso22-vendredi/mhd/P1000607.JPG"
-   image_size: 2
+   image_size: 3
  - image_path: "/img/galleries/2017-07-28-artso22-vendredi/mhd/P1000612.JPG"
    image_size: 2
  - image_path: "/img/galleries/2017-07-28-artso22-vendredi/mhd/P1000612_1.JPG"
@@ -81,10 +82,6 @@ En vrac: Asaf Avidan, Inspector Cluzo, Puppetmastaz, Naive New Beaters.
 Je me suis donc débattu au milieu de la foule et des pogos avec mon bridge Lumix, entre aventure dans les réglages et le côté rassurant du mode auto.
 
 ## Asaf Avidan
-
-Concert un peu mou dans l'ensemble. Par contre, la qualité sonore était superbe: pas de basse écrasante, la voix n'était pas quasi inaudible. Vraiment l'impression que le son du concert était réglé que pour moi. Magique, non ?
-
-N'empêche ce Monsieur a une grande classe et est un grand musicos, je suis super content de l'avoir au moins vu une fois dans ma vie ! 
 
 {% include subgallery.html id="gallery_asaf" %}
 
