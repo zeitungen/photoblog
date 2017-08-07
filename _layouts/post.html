@@ -17,9 +17,9 @@ layout: default
 
 {% assign post = page %}
 
-<article>
+<article id="page-container">
 <!-- Post Header -->
-<header class="intro-header" style="background-image: url('{{ site.baseurl }}{% if page.header-img %}{{ page.header-img }}{% endif %}')">
+{% comment %}<header class="intro-header" style="background-image: url('{{ site.baseurl }}{% if page.header-img %}{{ page.header-img }}{% endif %}')">
     <div class="container">
         <div class="row">
                             <div class="post-heading">
@@ -32,12 +32,33 @@ layout: default
             </div>
         </div>
     </div>
-</header>
+</header>{% endcomment %}
+<header class="intro-header" style="background-image: url('{{site.baseurl}}{{ site.header-img }}')">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <div class="site-heading">
+                       <h1>{{ site.title }}</h1>
+                        <hr class="small">
+                        <span class="subheading">{{ site.description }}</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
 
 <!-- Post Content -->
 
     <div class="container">
         <div class="row">
+
+            <div class="post-heading">
+              <h1>{{ page.title }}</h1>
+              {% if page.subtitle %}
+              <h4 class="subheading">{{ page.subtitle }}</h2>
+              {% endif %}
+              <span class="meta">Publié le {{ page.date | date: "%d/%m/%Y" }}</span>
+            </div>
             
 
                				{{ content }}

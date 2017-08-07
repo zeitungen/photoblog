@@ -152,6 +152,13 @@ hr.small {
   -o-background-size: cover;
   margin-bottom: 10px;
 }
+.container .row .post-heading {
+  text-align: center;
+}
+.container .row .post-heading span.meta {
+  font-size: 13px;
+  font-style: italic;
+}
 .intro-header .post-heading,
 .intro-header .page-heading {
   padding: 100px 0 50px;
