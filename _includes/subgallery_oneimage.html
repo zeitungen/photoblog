@@ -1,0 +1,9 @@
+{% if include.id %}
+  {% assign img = page.[include.id] %}
+{% endif %}
+
+<center>
+	<a href="{{ site.baseurl }}{{ img.image_path }}" class="popup"  title="{{ img.image_caption }}" data-caption="{{ img.image_copyright }}" style="width: 15%; display: inline-block;">
+		<img src="{{ site.baseurl }}{{ img.image_path }}">
+	</a>
+</center>
