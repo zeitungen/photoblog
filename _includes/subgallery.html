@@ -1,5 +1,11 @@
 {% if include.id %}
   {% assign gallery = page.[include.id] %}
+  {% if gallery.gallery_caption %}
+    {% assign gallery_caption = gallery.gallery_caption %}
+  {% endif %}
+  {% if gallery.images %}
+    {% assign gallery = gallery.images %}
+  {% endif %}
 {% else %}
   {% assign gallery = page.gallery %}
 {% endif %}
@@ -17,14 +23,14 @@
 
 	<header class='gallery-icon'>
 
-<a href="{{ site.baseurl }}{{ img.image_path }}" class="popup"  title="{{ img.image-caption }}" data-caption="{{ img.image-copyright }}">
+<a href="{{ site.baseurl }}{{ img.image_path }}" class="popup"  title="{% if gallery_caption %}{{gallery_caption}}{% else %}{{ img.image-caption }}{% endif %}" data-caption="{{ img.image-copyright }}">
 <img src="{{ site.baseurl }}{{ img.image_path }}"></a>
 						
 	</header>	
 		
    <figcaption class='gallery-caption'>
 		<div class="entry-summary" id="{{ img.image-caption }}">
-				<h3>{{img.image-caption}}</h3>
+				<h3>{{img.image_caption}}</h3>
 					<p>{{img.image-copyright}}</p>
 						</div>
 					</figcaption>
