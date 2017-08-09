@@ -36,3 +36,4 @@ Le site est hébergé grâce à [Github](http://github.com/).
 Le site pour fonctionner utilise les outils:
 - [ISOTOPE](https://github.com/metafizzy/isotope)
 - [Super Search](https://github.com/chinchang/super-search)
+- il y en a d'autres, mais la flemme de les lister (petite pensée à [JQuery](http://jquery.com/), [Bootstrap](http://getbootstrap.com/), [Font Awesome](http://fontawesome.io/) et bien d'autres ..)
