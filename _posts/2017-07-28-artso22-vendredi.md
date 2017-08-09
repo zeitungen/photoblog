@@ -42,6 +42,7 @@ gallery_aceofmaid:
  gallery_caption: "Ace of Maid"
  images:
  - image_path: "/img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000479.JPG"
+   image_size: 2
  - image_path: "/img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000482.JPG"
  - image_path: "/img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000483.JPG"
  - image_path: "/img/galleries/2017-07-28-artso22-vendredi/aceofmaid/IMG_20170721_205722.jpg"
@@ -51,7 +52,6 @@ gallery_aceofmaid:
  - image_path: "/img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000505.JPG"
  - image_path: "/img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000514.JPG"
  - image_path: "/img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000514_NB.JPG"
-   image_size: 3
  - image_path: "/img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000534.JPG"
 gallery_mhd:
  gallery_caption: "MHD"
