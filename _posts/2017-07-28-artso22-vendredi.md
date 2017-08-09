@@ -92,7 +92,7 @@ gallery_puppetmastaz:
 
 Les premières photos que je vais montrer ici seront celles que j'ai prises à un festoch', pas loin de chez moi, et bien sympa: **Art Sonic**. Une 22e édition pas assez rock à mon humble goût, mais avec des noms bien cool à aller écouter sur tout le week-end. 
 
-En vrac pour ce soir: Asaf Avidan, Puppetmastaz,MHD.
+En vrac pour ce soir: Asaf Avidan, Puppetmastaz, MHD.
 
 Je me suis donc débattu au milieu de la foule et des pogos avec mon bridge Lumix, entre aventures dans les réglages et le côté rassurant du mode auto.
 
