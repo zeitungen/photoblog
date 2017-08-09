@@ -133,7 +133,7 @@ img.mfp-img { padding: 0; }
 
 
      /*galleries adapted*/
-	.masonry-gallery .gallery-item { width: 15% !important; }
+	.masonry-gallery .gallery-item { width: 15%; }
 		
 @media screen and (max-height: 480px) {
 	/*header smaller space*/
@@ -148,4 +148,16 @@ img.mfp-img { padding: 0; }
 	/*galleries adapted*/
 	.fullscreen-gallery .gallery-caption .entry-summary { padding-bottom: 5em; }
 	.masonry-gallery .gallery-item { width: 98% !important; }
+}
+
+/* */
+
+article#page-container figure.gallery-size-1 {
+  width: 15%;
+}
+article#page-container figure.gallery-size-2 {
+  width: calc(30% + 4px);
+}
+article#page-container figure.gallery-size-3 {
+  width: calc(45% + 8px);
 }

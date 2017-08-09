@@ -14,11 +14,11 @@
   {% for img in gallery %}
 
   	{% if img.image_size == 2 %}
-  <figure class="gallery-item" style="width: 30% !important">
+  <figure class="gallery-item gallery-size-2">
   	{% elsif img.image_size == 3 %}
-  <figure class="gallery-item" style="width: 45% !important">
+  <figure class="gallery-item gallery-size-3">
   	{% else %}
-  <figure class="gallery-item" style="width: 15% !important">
+  <figure class="gallery-item gallery-size-1">
   	{% endif %}
 
 	<header class='gallery-icon'>
