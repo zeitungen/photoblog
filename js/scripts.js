@@ -124,9 +124,19 @@
 				var $masonry_items = $(element).find('.gallery-item');
 			
 				// set masonry layout
+				var colw = ".gallery-size-1";
+				if($(element).find(".gallery-size-1").length == 0) {
+					colw = ".gallery-size-2";
+					if($(element).find(".gallery-size-2").length == 0) {
+						colw =  ".gallery-size-3";
+						if($(element).find(".gallery-size-2").length == 0) {
+							colw = $(element).find('.gallery-item')[0];
+						}
+					}
+				}
 				$(element).isotope({
 					// masonry: { columnWidth: $(element).find('.gallery-item')[0] },
-					masonry: { columnWidth: ".gallery-size-1" },
+					masonry: { columnWidth: colw },
 					itemSelector: '.gallery-item'
 				});
 				$(element).isotope('layout');
