@@ -96,6 +96,8 @@ En vrac pour ce soir: Asaf Avidan, Puppetmastaz, MHD.
 
 Je me suis donc débattu au milieu de la foule et des pogos avec mon bridge Lumix, entre aventures dans les réglages et le côté rassurant du mode auto.
 
+Allez ! Amusez-vous !
+
 {% include subgallery_oneimage.html id="image_artso" %}
 
 ## Asaf Avidan
