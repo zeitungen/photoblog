@@ -521,3 +521,7 @@ footer .tooltip-inner {
 footer .container {
   margin-bottom: 0;
 }
+
+.row p { 
+  text-align: justify;
+}

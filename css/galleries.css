@@ -141,13 +141,13 @@ img.mfp-img { padding: 0; }
 
 	/*galleries adapted*/
 	.fullscreen-gallery .gallery-caption .entry-summary { padding-bottom: 2em; }
-	.masonry-gallery .gallery-item {width: 98% !important;}
+	/*.masonry-gallery .gallery-item {width: 98% !important;}*/
 }
 
 @media screen and (max-width: 640px) and (orientation: portrait) {
 	/*galleries adapted*/
 	.fullscreen-gallery .gallery-caption .entry-summary { padding-bottom: 5em; }
-	.masonry-gallery .gallery-item { width: 98% !important; }
+	/*.masonry-gallery .gallery-item { width: 98% !important; }*/
 }
 
 /* */
