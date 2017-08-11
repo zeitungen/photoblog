@@ -104,11 +104,11 @@ gallery_daisy:
    image_size: 2
 ---
 
-Second soirée à Artso ! Plus de spectateurs que le vendredi ! Avec une prog' toujours sympa mais toujours pas assez rock à mon goût.
+Seconde soirée à Artso ! Plus de spectateurs que le vendredi ! Avec une prog' toujours sympa mais toujours pas assez rock à mon goût.
 
 Aller en vrac, il y avait: The Inspector Cluzo, le $-Crew, The Noface ..
 
-Prendre ces photos a été un exercice de style: entre photo au milieux du pogo et photo au zoom.
+Prendre ces photos a été un exercice de style: entre photos au milieu du pogo et photos au zoom.
 
 ## Gentleman's Dub Club
 
