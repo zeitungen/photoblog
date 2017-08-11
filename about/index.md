@@ -7,11 +7,9 @@ header-img: "img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000514_NB.JPG
 
 # A propos
 
-Hey ! Je suis Maxime et j'aime bien la photographie, alors j'ai décidé de m'y mettre. Je fais ce photoblog pour faire des photos plus régulièrement et essayer de progresser !
+Je suis un mec qui fait des trucs. Le reste du temps je suis développeur informatique.
 
-Sinon je suis un gars qui fait des trucs. Le reste du temps je suis développeur informatique. Dans les trucs, il y a regarder des films et des séries, écouter de la musique, jouer à des jeux de société ... Et (mal)heureusement, je vis dans l'Orne.
-
-Alors j'espère que vous allez apprécier mes photos. À défaut, j'espère qu'elles vous feront réagir. Mais quoi qu'il arrive, critiquer !
+Sinon j'aime bien écouter de la musique, mater des films et des séries, jouer à des jeux de société. Et prendre des photos aussi. Mais je suis un photographe de merde, alors pour essayer de faire de meilleures photos et d'en faire plus régulièrement, je fais ce photoblog. N'hésitez pas à critiquer (et/ou me conseiller) !
 
 ## Mes photos
 
