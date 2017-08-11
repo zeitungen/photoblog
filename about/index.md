@@ -17,11 +17,11 @@ Mes photos sont publiées sous [licence Creative Commons "BY-NC"](https://creati
 
 Vous avez aussi le droit de les modifier. Je serai super honoré de voir le résultat si un jour quelqu'un transforme mes clichés !
 
-<center><p>
+<center>
 	<a href="https://creativecommons.org/licenses/by-nc/3.0/fr/">
 		<img src="{{ site.baseurl }}/img/by-nc.png"/>
 	</a>
-</p></center>
+</center>
 
 Mes photos publiées ici sont toutes en qualité dégradée sur ce site (pour quelles soient plus rapides à charger).
 
