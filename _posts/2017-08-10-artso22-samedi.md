@@ -4,7 +4,7 @@ title: "Art Sonic #22 - Samedi"
 subtitle: "Briouze - 23 Juillet 2017"
 date: "2017-08-10"
 header-img: "/img/galleries/2017-08-10-artso22-samedi/screw/P1000940.JPG"
-tags: [concert, Art Sonic, artsonic, Briouze, The Inspector Cluzo]
+tags: [concert, festival, festoch, Art Sonic, artsonic, Briouze, The Inspector Cluzo, Inspector Cluzo, Daisy, Gentleman's Dub Club, Naive New Beater, $-Crew, Nekfeu, The Noface, Noface]
 categories: [Concert]
 comments: true
 gallery_gentlemansdubclub:

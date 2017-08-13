@@ -4,7 +4,7 @@ title: "Art Sonic #22 - Vendredi"
 subtitle: "Briouze - 22 Juillet 2017"
 date: "2017-07-28"
 header-img: "/img/galleries/2017-07-28-artso22-vendredi/aceofmaid/P1000514_NB.JPG"
-tags: [concert, Art Sonic, artsonic, Briouze, Asaf Avidan]
+tags: [concert, festival, festoch, Art Sonic, artsonic, Briouze, Asaf Avidan, Broken Back, Ace of Maid, MHD, Las Aves, Puppetmastaz]
 categories: [Concert]
 comments: true
 image_artso:
