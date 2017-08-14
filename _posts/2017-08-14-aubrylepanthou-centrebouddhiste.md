@@ -12,6 +12,7 @@ gallery_bouddha:
   - image_path: "/img/galleries/2017-08-14-aubry-bouddha/P1000001.JPG"
   - image_path: "/img/galleries/2017-08-14-aubry-bouddha/P1000004.JPG"
   - image_path: "/img/galleries/2017-08-14-aubry-bouddha/P1000006.JPG"
+    image_size: 2
   - image_path: "/img/galleries/2017-08-14-aubry-bouddha/P1000008.JPG"
   - image_path: "/img/galleries/2017-08-14-aubry-bouddha/P1000011.JPG"
   - image_path: "/img/galleries/2017-08-14-aubry-bouddha/P1000012.JPG"
