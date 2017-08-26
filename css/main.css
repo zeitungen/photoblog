@@ -477,6 +477,7 @@ body {
   position: absolute;
   width: 100%;
   padding: 1em;
+  text-shadow: -1px -1px 1px black, 1px -1px 1px black, -1px 1px 1px black, 1px 1px 1px black;
 }
 
 .homepage-caption .homepage-entry-summary:hover {
